@@ -136,10 +136,7 @@ background-color: white;
     top: 50%;
     transform: translateY(-50%);
 }
-.content {
-      min-height: 100%;
-      padding-bottom: 80px;
-   }
+
 
    .footer {
      margin-top: auto;
